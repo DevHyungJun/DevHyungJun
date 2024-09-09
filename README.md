@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" />
@@ -38,7 +39,7 @@
   <div align="center" style="border-bottom:2px solid #ddd; padding: 10px">
     <h2>📊 GitHub Stats</h2>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHyungJun&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHyungJun&show_icons=true&theme=cobalt)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevHyungJun&layout=compact)
 
