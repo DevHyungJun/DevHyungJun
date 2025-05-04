@@ -7,6 +7,7 @@
 
 <div align="center">
   <h1>👋 Hello! I'm Frontend Developer 👋</h1>
+  <p>blog: <a href="https://velog.io/@khj0807/posts">https://velog.io/@khj0807/posts</a></p>
 </div>
 
 <br />
