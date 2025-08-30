@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactHookForm-#EC5990?style=for-the-badge&logo=ReactHookForm&logoColor=white" />
-  <img src="https://img.shields.io/badge/styled-components-#DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=for-the-badge&logo=ReactHookForm&logoColor=white" />
+  <img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 </div>
 
 <br/>
@@ -35,9 +35,9 @@
     <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=Notion&logoColor=black" />
     <img src="https://img.shields.io/badge/vscode-2C2C32?style=for-the-badge&logo=&logoColor=black" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black" />
-    <img src="https://img.shields.io/badge/Jira-#0052CC?style=for-the-badge&logo=Jira&logoColor=black" />
-    <img src="https://img.shields.io/badge/Confluence-#172B4D?style=for-the-badge&logo=Confluence&logoColor=black" />
-    <img src="https://img.shields.io/badge/Slack-#4A154B?style=for-the-badge&logo=Slack&logoColor=black" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=black" />
+    <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=black" />
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=black" />
   </div>
 
 <br/>
