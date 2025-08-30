@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![welcome to DevhungJun github (2) (1)](https://github.com/user-attachments/assets/28463614-0d20-4357-b13b-ddd9a32fc9c1)
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/7e1fda23-0103-48b3-bb5f-3dfa0006d5e7" />
 
 </div>
 
