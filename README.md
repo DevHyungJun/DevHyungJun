@@ -7,7 +7,6 @@
 
 <div align="center">
   <h1>👋 Hello! I'm Frontend Developer 👋</h1>
-  email: <a href="mailto:znznun@gmail.com">znznun@gmail.com</a>
 </div>
 
 <br />
