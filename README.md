@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white" />
   <img src="https://img.shields.io/badge/testinglibrary-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
   <img src="https://img.shields.io/badge/playwright-2659C7?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Storybook-5395FD?style=for-the-badge&logo=Storybook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white" />
 </div>
 
 <br/>
