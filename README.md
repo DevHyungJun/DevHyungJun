@@ -6,13 +6,13 @@
 </div>
 
 <div align="center">
-  <h1>💡문제를 기회로 바꾸며 성장하는 개발자 권형준입니다!</h1>
+  <h1>문제를 기회로 바꾸며 성장하는 개발자 권형준입니다!</h1>
 </div>
 
 <br />
 
 <div align="center" style="border-bottom:2px solid #ddd; padding: 10px;">
-  <h2>✨ Tech Stack</h2>
+  <h2>Tech Stack</h2>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
@@ -31,7 +31,7 @@
 <br/>
 
   <div align="center" style="border-bottom:2px solid #ddd; padding: 10px">
-    <h2>🛠 Tools</h2>
+    <h2>Tools</h2>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/Notion-F3F3F3?style=for-the-badge&logo=Notion&logoColor=black" />
@@ -45,7 +45,7 @@
 <br/>
 
   <div align="center" style="border-bottom:2px solid #ddd; padding: 10px">
-    <h2>📊 GitHub Stats</h2>
+    <h2>GitHub Stats</h2>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevHyungJun&show_icons=true&theme=cobalt)
 
